@@ -1,0 +1,7 @@
+selenium>=3.141.0
+pymongo[tls,srv]>=3.11.4
+sympy>=1.6.2
+requests>=2.24.0
+telebot
+dnspython==2.1.0
+chess
